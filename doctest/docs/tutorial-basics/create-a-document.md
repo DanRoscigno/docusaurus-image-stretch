@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Documents are **groups of pages** connected through:
 
+![image](./assets/6.1.2-2.png)
+
 - a **sidebar**
 - **previous/next navigation**
 - **versioning**
