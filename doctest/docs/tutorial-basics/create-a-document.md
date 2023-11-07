@@ -6,6 +6,33 @@ sidebar_position: 2
 
 Documents are **groups of pages** connected through:
 
+```sql
+SELECT foo from bar;
+```
+
+```bash
+cd my-website
+npx docusaurus start
+```
+
+```sh
+sudo sh
+
+bin/connect-standalone worker.properties connect-StarRocks-sink.properties [connector2.properties connector3.properties ...]
+```
+
+<div>
+  <iframe src="//www.youtube.com/embed/QZEwHW3AbJ4"
+    width="640"
+    height="360"
+    frameborder="0"
+    allow="autoplay;
+    fullscreen;
+    picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ![image](./assets/6.1.2-2.png)
 
 - a **sidebar**
